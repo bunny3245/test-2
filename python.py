@@ -8,3 +8,5 @@ def main():
 if __name__ == "__main__":
     main()
 # A simple program to display words and emojis
+print("Hello, World! 🌍")
+print("Python is fun! 🐍")
